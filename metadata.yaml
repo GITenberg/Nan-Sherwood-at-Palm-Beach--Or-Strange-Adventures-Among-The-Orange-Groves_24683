@@ -1,0 +1,29 @@
+_repo: Nan-Sherwood-at-Palm-Beach--Or-Strange-Adventures-Among-The-Orange-Groves_24683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carr, Annie Roe
+    gutenberg_agent_id: '1000'
+    url: http://www.gutenberg.org/2009/agents/1000
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Florida -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+title: Nan Sherwood at Palm Beach; Or, Strange Adventures Among The Orange Groves
+url: http://www.gutenberg.org/ebooks/24683
